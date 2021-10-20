@@ -12,6 +12,7 @@
 
 현재는 웹의 확장성과 웹 산업이 빠르게 확장하고 있는 것을 보고 
 매력을 느끼고 Javascript 공부를 시작하게 되었습니다.
+(https://anphaca.tistory.com/)
 
 
 
