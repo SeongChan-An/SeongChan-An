@@ -15,7 +15,7 @@
 
  : Also, I have the management & communication skills 
 
- : Project Managing in Global Project
+ : Project Managing in Global Project (2017.04 ~ 2019.04)
  
  >2016년 12월에 첫 회사에 입사하여 지금까지 IT 업계에서 경력을 쌓았습니다.  
  초기에 Global Project Navigation part PM을 통해 전반적인 업무 진행사항과 위험관리, 능력을 길렀고  
