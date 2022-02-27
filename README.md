@@ -84,7 +84,7 @@
 </div>
 </td><td valign="top">
 
-### learning in progress Or Interests
+### Learning in progress or Interests
 
 <div align="center">
 
