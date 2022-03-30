@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Javascript to become a Front-end developer
 
-: Originally I have been using C, C++ in the company for business.
+: I have been using C, C++ in the company for business.
 
 : Develop & Maintenance Embedded Navigation SW on Vehicle (2019.04 ~ 2021.09)
 
@@ -10,10 +10,11 @@
 
 : Project Managing in Global Project (2017.04 ~ 2019.04)
 
-> 2016년 12월에 첫 회사에 입사하여 지금까지 IT 업계에서 경력을 쌓았습니다.  
->  초기에 Global Project Navigation part PM을 통해 전반적인 업무 진행사항과 위험관리, 문서정리, 소통 능력을 길렀고  
+> 2016년 12월에 첫 회사에 입사하여 지금까지 경력을 쌓았습니다.  
+>  Global Project Navigation part PM을 통해 전반적인 업무 진행사항과 위험관리, 문서정리, 소통 능력을 길렀고  
 >  이후에 프로그래밍의 중요성을 느끼고 개발 업무에 참여하여 내비게이션 신규 기능 개발, 유지 보수 업무를 했습니다. (C, C++, QT .. etc)  
->  현재는 웹의 확장성과 웹 산업이 빠르게 확장하고 있는 것을 보고 매력을 느끼고 필요한 기술들을 공부하며 프론트엔드 개발자가 되기위해 힘쓰고 있습니다.
+>  현재는 웹의 확장성과 웹 산업이 빠르게 확장하고 있는 것을 보고 매력을 느끼고 필요한 기술들을 공부하며 프론트엔드 개발자가 되기위해 힘쓰고 있습니다.  
+>  새로운 기술을 배우는 것에 열정이 있습니다. 신규 프로젝트의 시작부터 출시까지의 경험이 있으며, 여러 프로젝트 및 다양한 회사와의 협업 경험을 통해 어떤 회사, 어떤 팀에서도 잘 적응할 수 있습니다. 계획을 지키고 업무를 문서화하는 능력이 있고, 일하면서 당면하게 되는 여러 어려운 상황 속에서도 동료들과 함께 격려하며 해결해 나가는 능력이 있습니다
 
 - 📫 How to reach me ... : you can contact me at tjscks0510@gmail.com
 
@@ -54,14 +55,14 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   -->
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
-### DevOps
+### Util
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
