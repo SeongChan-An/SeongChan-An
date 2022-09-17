@@ -4,6 +4,9 @@
 
 : I have been using C, C++ in the company for business.
 
+: Now: Working in the automotive industry as an SW engineer. 
+
+: Develop reprogramming Tool in Vehicle Plant relates to CAN Communication (2022.05 ~ 2022.07)
 : Develop & Maintenance Embedded Navigation SW on Vehicle (2019.04 ~ 2021.09)
 
 : Also, I have the management & communication skills
